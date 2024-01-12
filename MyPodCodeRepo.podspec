@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MyPodCodeRepo" # 项目名称
-  s.version      = "0.0.1"        # 版本号 与 你代码库的 标签号 对应
+  s.version      = "0.0.2"        # 版本号 与 你代码库的 标签号 对应
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.summary      = "私人pod代码" # 项目简介
 
